@@ -1,0 +1,11 @@
+stm32f401-disco\audiofilter.o: ..\Src\audioFilter.c
+stm32f401-disco\audiofilter.o: ..\Inc\audioFilter.h
+stm32f401-disco\audiofilter.o: ..\STM32Cube_FW_F4_V1.5.0\Drivers\CMSIS\Include\arm_math.h
+stm32f401-disco\audiofilter.o: ..\STM32Cube_FW_F4_V1.5.0\Drivers\CMSIS\Include\core_cm4.h
+stm32f401-disco\audiofilter.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f401-disco\audiofilter.o: ..\STM32Cube_FW_F4_V1.5.0\Drivers\CMSIS\Include\core_cmInstr.h
+stm32f401-disco\audiofilter.o: ..\STM32Cube_FW_F4_V1.5.0\Drivers\CMSIS\Include\core_cmFunc.h
+stm32f401-disco\audiofilter.o: ..\STM32Cube_FW_F4_V1.5.0\Drivers\CMSIS\Include\core_cmSimd.h
+stm32f401-disco\audiofilter.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32f401-disco\audiofilter.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+stm32f401-disco\audiofilter.o: ..\Inc\filters.h
